@@ -10,6 +10,7 @@ A simple console app using C# and Entity Framework Core to manage books, authors
 - C#
 - EF Core
 - SQL Server
+- Linq
 
 ## Usage:
 1. Clone the repo

@@ -1,17 +1,33 @@
-﻿# Library Management System 📚
-A simple console app using C# and Entity Framework Core to manage books, authors, students, and borrow operations.
+# Library Management System
 
-## Features:
-- CRUD for Authors, Books, Students
-- Borrow & Return books
-- EF Core with SQL Server
+## 📚 Project Overview
 
-## Technologies:
-- C#
-- EF Core
-- SQL Server
-- Linq
+A Console Application built with **C#** and **Entity Framework Core** to manage library operations such as books, authors, students, and borrowing transactions in a clean and organized way.
 
-## Usage:
-1. Clone the repo
-2. Run the app using Visual Studio
+---
+
+## ⚙️ Technologies Used
+
+- Programming Language: C# (.NET 8.0)
+- ORM: Entity Framework Core
+- Database: SQL Server (LocalDB or any version)
+- IDE: Visual Studio / Visual Studio Code
+
+---
+
+## 🛠 Features
+
+- Add, update, delete, and list books
+- Manage authors and students
+- Borrow and return books with inventory updates
+- Clean architecture using Services to separate business logic from UI
+- Full CRUD operations on all entities
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+2. **Run in your Ide**
+
+
